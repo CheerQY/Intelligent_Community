@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:375px;
+  width:610px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -515,8 +515,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:277px;
-  height:160px;
+  width:177px;
+  height:230px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
   border:none;
@@ -527,15 +527,15 @@
 }
 #u621 {
   position:absolute;
-  left:49px;
-  top:440px;
-  width:277px;
-  height:160px;
+  left:433px;
+  top:80px;
+  width:177px;
+  height:230px;
 }
 #u622 {
   position:absolute;
   left:10px;
   top:10px;
-  width:257px;
+  width:157px;
   word-wrap:break-word;
 }

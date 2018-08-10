@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:375px;
+  width:660px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -746,8 +746,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:348px;
-  height:180px;
+  width:210px;
+  height:255px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
   border:none;
@@ -758,15 +758,15 @@
 }
 #u1335 {
   position:absolute;
-  left:11px;
-  top:600px;
-  width:348px;
-  height:180px;
+  left:450px;
+  top:85px;
+  width:210px;
+  height:255px;
 }
 #u1336 {
   position:absolute;
   left:10px;
   top:10px;
-  width:328px;
+  width:190px;
   word-wrap:break-word;
 }

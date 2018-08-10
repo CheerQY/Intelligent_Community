@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:375px;
+  width:630px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -599,7 +599,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:150px;
+  width:200px;
   height:150px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
@@ -611,15 +611,15 @@
 }
 #u1860 {
   position:absolute;
-  left:90px;
-  top:310px;
-  width:150px;
+  left:430px;
+  top:79px;
+  width:200px;
   height:150px;
 }
 #u1861 {
   position:absolute;
   left:10px;
   top:10px;
-  width:130px;
+  width:180px;
   word-wrap:break-word;
 }

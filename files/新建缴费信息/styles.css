@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:375px;
+  width:670px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -51,7 +51,7 @@
   width:375px;
   height:55px;
   background:inherit;
-  background-color:rgba(25, 158, 216, 1);
+  background-color:rgba(26, 188, 156, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -878,8 +878,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
-  height:220px;
+  width:240px;
+  height:290px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
   border:none;
@@ -890,16 +890,16 @@
 }
 #u2215 {
   position:absolute;
-  left:21px;
-  top:610px;
-  width:329px;
-  height:220px;
+  left:430px;
+  top:90px;
+  width:240px;
+  height:290px;
 }
 #u2216 {
   position:absolute;
   left:10px;
   top:10px;
-  width:309px;
+  width:220px;
   word-wrap:break-word;
 }
 #u2217_img {

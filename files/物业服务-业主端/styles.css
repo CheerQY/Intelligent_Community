@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:375px;
+  width:650px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -649,7 +649,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
+  width:210px;
   height:140px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
@@ -661,15 +661,15 @@
 }
 #u225 {
   position:absolute;
-  left:37px;
-  top:623px;
-  width:300px;
+  left:440px;
+  top:55px;
+  width:210px;
   height:140px;
 }
 #u226 {
   position:absolute;
   left:10px;
   top:10px;
-  width:280px;
+  width:190px;
   word-wrap:break-word;
 }
